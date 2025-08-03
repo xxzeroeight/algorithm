@@ -1,15 +1,3 @@
-import sys
-
-# [입력 처리]
-bi = sys.stdin.readline().rstrip()
-
-# [핵심 로직]
-de = int(bi, 2)
-result = oct(de)
-
-# [결과 출력]
-print(result[2:])
-
 """
 # 문제 정보
 
@@ -28,3 +16,15 @@ print(result[2:])
  - 8진수로 변환 후 접두어 제거
 개선점
 """
+
+import sys
+
+# [입력 처리]
+bi = sys.stdin.readline().rstrip()
+
+# [핵심 로직]
+de = int(bi, 2)
+result = oct(de)
+
+# [결과 출력]
+print(result[2:])
