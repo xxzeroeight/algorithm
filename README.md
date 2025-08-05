@@ -8,3 +8,8 @@
 | 2  | 2153  |  [소수 단어](https://www.acmicpc.net/problem/2153)   | 1  |  ⭐  |  40%  | ✅  | 25-08-03/ |
 | 3  | 2386  | [도비의 영어공부](https://www.acmicpc.net/problem/2386) | 1  |  ⭐  |  60%  | ✅  | 25-08-04/ |
 | 4  | 2495  |   [연속구간](https://www.acmicpc.net/problem/2495)   | 2  |  ⭐  |  47%  | ✅  | 25-08-04/ |
+| 5  | 2577  |  [숫자의 개수](https://www.acmicpc.net/problem/2577)  | 1  |  ⭐  |  60%  | ✅  | 25-08-05/ |
+| 6  | 2711  | [오타맨 고창영](https://www.acmicpc.net/problem/2711)  | 1  |  ⭐  |  68%  | ✅  | 25-08-05/ |
+| 7  | 2743  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | 1  |  ⭐  |  79%  | ✅  | 25-08-05/ |
+| 8  | 2744  | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) | 1  |  ⭐  |  75%  | ✅  | 25-08-05/ |
+| 9  | 2789  |  [유학 금지](https://www.acmicpc.net/problem/2789)   | 1  |  ⭐  |  75%  | ✅  | 25-08-05/ |
