@@ -17,3 +17,7 @@
 | 11 | 3059  | [등장하지 않는 문자의 합](https://www.acmicpc.net/problem/3059) | 1  |  ⭐  |  60%  | ✅  | 25-08-06/ |
 | 12 | 3449  |     [해밍 거리](https://www.acmicpc.net/problem/3449)     | 1  |  ⭐  |  76%  | ✅  | 25-08-06/ |
 | 13 | 4458  |  [첫 글자를 대문자로](https://www.acmicpc.net/problem/4458)   | 1  |  ⭐  |  51%  | ✅  | 25-08-06/ |
+| 14 | 4740  |   [거울, 오! 거울](https://www.acmicpc.net/problem/4740)   | 1  |  ⭐  |  61%  | ✅  | 25-08-07/ |
+| 15 | 4999  |      [아!](https://www.acmicpc.net/problem/4999)       | 1  |  ⭐  |  62%  | ✅  | 25-08-07/ |
+| 16 | 5218  |    [알파벳 거리](https://www.acmicpc.net/problem/5218)     | 1  |  ⭐  |  65%  | ✅  | 25-08-07/ |
+| 17 | 5363  |      [요다](https://www.acmicpc.net/problem/5363)       | 1  |  ⭐  |  74%  | ✅  | 25-08-07/ |
