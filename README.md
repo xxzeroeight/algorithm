@@ -21,3 +21,7 @@
 | 15 | 4999  |      [아!](https://www.acmicpc.net/problem/4999)       | 1  |  ⭐  |  62%  | ✅  | 25-08-07/ |
 | 16 | 5218  |    [알파벳 거리](https://www.acmicpc.net/problem/5218)     | 1  |  ⭐  |  65%  | ✅  | 25-08-07/ |
 | 17 | 5363  |      [요다](https://www.acmicpc.net/problem/5363)       | 1  |  ⭐  |  74%  | ✅  | 25-08-07/ |
+| 18 | 5524  |     [입실 관리](https://www.acmicpc.net/problem/5524)     | 1  |  ⭐  |  79%  | ✅  | 25-08-08/ |
+| 19 | 5586  |   [JOI와 IOI](https://www.acmicpc.net/problem/5586)    | 1  |  ⭐  |  78%  | ✅  | 25-08-08/ |
+| 20 | 5704  |      [팬그램](https://www.acmicpc.net/problem/5704)      | 1  |  ⭐  |  65%  | ✅  | 25-08-08/ |
+| 21 | 5789  |    [한다 안한다](https://www.acmicpc.net/problem/5789)     | 1  |  ⭐  |  58%  | ✅  | 25-08-08/ |
