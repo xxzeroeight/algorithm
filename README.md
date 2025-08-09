@@ -25,3 +25,7 @@
 | 19 | 5586  |   [JOI와 IOI](https://www.acmicpc.net/problem/5586)    | 1  |  ⭐  |  78%  | ✅  | 25-08-08/ |
 | 20 | 5704  |      [팬그램](https://www.acmicpc.net/problem/5704)      | 1  |  ⭐  |  65%  | ✅  | 25-08-08/ |
 | 21 | 5789  |    [한다 안한다](https://www.acmicpc.net/problem/5789)     | 1  |  ⭐  |  58%  | ✅  | 25-08-08/ |
+| 22 | 5598  |    [카이사르 암호](https://www.acmicpc.net/problem/5598)    | 2  |  ⭐  |  56%  | ✅  | 25-08-09/ |
+| 23 | 8958  |     [OX 퀴즈](https://www.acmicpc.net/problem/8958)     | 1  |  ⭐  |  52%  | ✅  | 25-08-09/ |
+| 24 | 9086  |      [문자열](https://www.acmicpc.net/problem/9086)      | 1  |  ⭐  |  63%  | ✅  | 25-08-09/ |
+| 25 | 9243  |   [파일 완전 삭제](https://www.acmicpc.net/problem/9243)    | 1  |  ⭐  |  61%  | ✅  | 25-08-09/ |
