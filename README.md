@@ -29,3 +29,7 @@
 | 23 | 8958  |     [OX 퀴즈](https://www.acmicpc.net/problem/8958)     | 1  |  ⭐  |  52%  | ✅  | 25-08-09/ |
 | 24 | 9086  |      [문자열](https://www.acmicpc.net/problem/9086)      | 1  |  ⭐  |  63%  | ✅  | 25-08-09/ |
 | 25 | 9243  |   [파일 완전 삭제](https://www.acmicpc.net/problem/9243)    | 1  |  ⭐  |  61%  | ✅  | 25-08-09/ |
+| 26 | 10102 |      [개표](https://www.acmicpc.net/problem/10102)      | 1  |  ⭐  |  65%  | ✅  | 25-08-10/ |
+| 27 | 10173 |   [니모를 찾아서](https://www.acmicpc.net/problem/10173)    | 1  |  ⭐  |  53%  | ✅  | 25-08-10/ |
+| 28 | 10174 |     [팰린드롬](https://www.acmicpc.net/problem/10174)     | 1  |  ⭐  |  52%  | ✅  | 25-08-10/ |
+| 29 | 10808 |    [알파벳 개수](https://www.acmicpc.net/problem/10808)    | 1  |  ⭐  |  68%  | ✅  | 25-08-10/ |
