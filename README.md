@@ -37,3 +37,7 @@
 | 31 | 10820 |     [문자열 분석](https://www.acmicpc.net/problem/10820)      | 1  |  ⭐  |  41%  | ✅  | 25-08-11/ |
 | 32 | 10821 |     [정수의 개수](https://www.acmicpc.net/problem/10821)      | 1  |  ⭐  |  84%  | ✅  | 25-08-11/ |
 | 33 | 17094 | [Serious Problem](https://www.acmicpc.net/problem/17094) | 1  |  ⭐  |  72%  | ✅  | 25-08-11/ |
+| 34 | 1032  |     [명령 프롬프트](https://www.acmicpc.net/problem/1032)      | 1  |  ⭐  |  59%  | ✅  | 25-08-12/ |
+| 35 | 1157  |      [단어 공부](https://www.acmicpc.net/problem/1157)       | 1  |  ⭐  |  40%  | ✅  | 25-08-12/ |
+| 36 | 1356  |       [유진수](https://www.acmicpc.net/problem/1356)        | 1  |  ⭐  |  50%  | ✅  | 25-08-12/ |
+| 37 | 1357  |      [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)      | 1  |  ⭐  |  55%  | ✅  | 25-08-12/ |
