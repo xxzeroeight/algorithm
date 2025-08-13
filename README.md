@@ -41,3 +41,7 @@
 | 35 | 1157  |      [단어 공부](https://www.acmicpc.net/problem/1157)       | 1  |  ⭐  |  40%  | ✅  | 25-08-12/ |
 | 36 | 1356  |       [유진수](https://www.acmicpc.net/problem/1356)        | 1  |  ⭐  |  50%  | ✅  | 25-08-12/ |
 | 37 | 1357  |      [뒤집힌 덧셈](https://www.acmicpc.net/problem/1357)      | 1  |  ⭐  |  55%  | ✅  | 25-08-12/ |
+| 38 | 1110  |     [더하기 사이클](https://www.acmicpc.net/problem/1110)      | 1  |  ⭐  |  47%  | ✅  | 25-08-13/ |
+| 39 | 6996  |       [애너그램](https://www.acmicpc.net/problem/6996)       | 1  |  ⭐  |  51%  | ✅  | 25-08-13/ |
+| 40 | 9093  |      [단어 뒤집기](https://www.acmicpc.net/problem/9093)      | 1  |  ⭐  |  55%  | ✅  | 25-08-13/ |
+| 41 | 9933  |    [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)     | 1  |  ⭐  |  46%  | ✅  | 25-08-13/ |
