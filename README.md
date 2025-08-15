@@ -45,3 +45,7 @@
 | 39 | 6996  |       [애너그램](https://www.acmicpc.net/problem/6996)       | 1  |  ⭐  |  51%  | ✅  | 25-08-13/ |
 | 40 | 9093  |      [단어 뒤집기](https://www.acmicpc.net/problem/9093)      | 1  |  ⭐  |  55%  | ✅  | 25-08-13/ |
 | 41 | 9933  |    [민균이의 비밀번호](https://www.acmicpc.net/problem/9933)     | 1  |  ⭐  |  46%  | ✅  | 25-08-13/ |
+| 42 | 10769 |    [행복한지 슬픈지](https://www.acmicpc.net/problem/10769)     | 1  |  ⭐  |  65%  | ✅  | 25-08-15/ |
+| 43 | 10988 |   [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)   | 1  |  ⭐  |  60%  | ✅  | 25-08-15/ |
+| 44 | 11098 |    [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)     | 1  |  ⭐  |  60%  | ✅  | 25-08-15/ |
+| 45 | 2204  |   [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)    | 1  |  ⭐  |  57%  | ✅  | 25-08-15/ |
