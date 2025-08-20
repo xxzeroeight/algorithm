@@ -65,3 +65,6 @@
 | 7  | 3040  | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) | 1  |  ⭐  |  67%  | ✅  | 25-08-19/ |
 | 8  | 13410 |   [거꾸로 구구단](https://www.acmicpc.net/problem/13410)    | 1  |  ⭐  |  62%  | ✅  | 25-08-19/ |
 | 9  | 14697 |    [방 배정하기](https://www.acmicpc.net/problem/14697)    | 1  |  ⭐  |  43%  | ❌  | 25-08-19/ |
+| 10 | 4641  |    [Doubles](https://www.acmicpc.net/problem/4641)    | 1  |  ⭐  |  69   | ✅  | 25-08-20/ |
+| 11 | 2435  |  [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)   | 2  |  ⭐  |  46%  | ✅  | 25-08-20/ |
+| 12 | 11170 |    [0의 개수](https://www.acmicpc.net/problem/11170)     | 1  |  ⭐  |  75%  | ✅  | 25-08-20/ |
