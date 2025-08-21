@@ -68,3 +68,6 @@
 | 10 | 4641  |    [Doubles](https://www.acmicpc.net/problem/4641)    | 1  |  ⭐  |  69   | ✅  | 25-08-20/ |
 | 11 | 2435  |  [기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)   | 2  |  ⭐  |  46%  | ✅  | 25-08-20/ |
 | 12 | 11170 |    [0의 개수](https://www.acmicpc.net/problem/11170)     | 1  |  ⭐  |  75%  | ✅  | 25-08-20/ |
+| 13 | 2160  |     [그림 비교](https://www.acmicpc.net/problem/2160)     | 2  |  ⭐  |  48%  | ❌  | 25-08-21/ |
+| 14 | 1145  | [적어도 대부부분의 배수](https://www.acmicpc.net/problem/1145)  | 1  |  ⭐  |  64%  | ✅  | 25-08-21/ |
+| 15 | 18868 |    [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)    | 2  |  ⭐  |  58%  | ✅  | 25-08-21/ |
