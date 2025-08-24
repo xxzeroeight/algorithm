@@ -81,3 +81,8 @@
 | 2  | 1942  |    [디지털시계](https://www.acmicpc.net/problem/1942)     | 2  |  ⭐  |  49%  | ❌  | 25-08-23/ |
 | 3  | 14920 |   [3n+1 수열](https://www.acmicpc.net/problem/14920)   | 1  |  ⭐  |  74%  | ✅  | 25-08-23/ |
 | 4  | 16917 | [양념 반 후라이드 반](https://www.acmicpc.net/problem/16917) | 3  |  ⭐  |  58%  | ✅  | 25-08-23/ |
+| 5  | 9517  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517)  | 2  |  ⭐  |  49%  | ❌  | 25-08-24/ |
+| 6  | 1672  |    [DNA 해독](https://www.acmicpc.net/problem/1672)    | 1  |  ⭐  |  42%  | ✅  | 25-08-24/ |
+| 7  | 3943  |   [헤일수톤 수열](https://www.acmicpc.net/problem/3943)    | 1  |  ⭐  |  45%  | ✅  | 25-08-24/ |
+| 8  | 1592  |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)   | 1  |  ⭐  |  69%  | ✅  | 25-08-24/ |
+| 9  | 10040 |     [투표](https://www.acmicpc.net/problem/10040)      | 1  |  ⭐  |  61%  | ✅  | 25-08-24/ |
