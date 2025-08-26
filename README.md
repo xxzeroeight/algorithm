@@ -86,3 +86,6 @@
 | 7  | 3943  |   [헤일수톤 수열](https://www.acmicpc.net/problem/3943)    | 1  |  ⭐  |  45%  | ✅  | 25-08-24/ |
 | 8  | 1592  |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)   | 1  |  ⭐  |  69%  | ✅  | 25-08-24/ |
 | 9  | 10040 |     [투표](https://www.acmicpc.net/problem/10040)      | 1  |  ⭐  |  61%  | ✅  | 25-08-24/ |
+| 10 | 10804 |   [카드 역배치](https://www.acmicpc.net/problem/10804)    | 1  |  ⭐  |  66%  | ✅  | 25-08-26/ |
+| 11 | 10810 |    [공 넣기](https://www.acmicpc.net/problem/10810)     | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
+| 12 | 10811 |   [바구니 뒤집기](https://www.acmicpc.net/problem/10811)   | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
