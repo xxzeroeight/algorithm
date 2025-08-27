@@ -89,3 +89,6 @@
 | 10 | 10804 |   [카드 역배치](https://www.acmicpc.net/problem/10804)    | 1  |  ⭐  |  66%  | ✅  | 25-08-26/ |
 | 11 | 10810 |    [공 넣기](https://www.acmicpc.net/problem/10810)     | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
 | 12 | 10811 |   [바구니 뒤집기](https://www.acmicpc.net/problem/10811)   | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
+| 13 | 10813 |    [공 바꾸기](https://www.acmicpc.net/problem/10813)    | 1  |  ⭐  |  62%  | ✅  | 25-08-27/ |
+| 14 | 11648 |     [지속](https://www.acmicpc.net/problem/11648)      | 1  |  ⭐  |  83%  | ✅  | 25-08-27/ |
+| 15 | 13224 |  [Chop Cup](https://www.acmicpc.net/problem/13224)   | 1  |  ⭐  |  92%  | ✅  | 25-08-27/ |
