@@ -92,3 +92,6 @@
 | 13 | 10813 |    [공 바꾸기](https://www.acmicpc.net/problem/10813)    | 1  |  ⭐  |  62%  | ✅  | 25-08-27/ |
 | 14 | 11648 |     [지속](https://www.acmicpc.net/problem/11648)      | 1  |  ⭐  |  83%  | ✅  | 25-08-27/ |
 | 15 | 13224 |  [Chop Cup](https://www.acmicpc.net/problem/13224)   | 1  |  ⭐  |  92%  | ✅  | 25-08-27/ |
+| 16 | 13419 |     [탕수육](https://www.acmicpc.net/problem/13419)     | 2  |  ⭐  |  74%  | ❌  | 25-08-28/ |
+| 17 | 2947  |    [나무 조각](https://www.acmicpc.net/problem/2947)     | 1  |  ⭐  |  58%  | ✅  | 25-08-28/ |
+| 18 | 1173  |      [운동](https://www.acmicpc.net/problem/1173)      | 1  |  ⭐  |  48%  | ✅  | 25-08-28/ |
