@@ -50,6 +50,8 @@
 | 44 | 11098 |    [첼시를 도와줘!](https://www.acmicpc.net/problem/11098)     | 1  |  ⭐  |  60%  | ✅  |     25-08-15/     |
 | 45 | 2204  |   [도비의 난독증 테스트](https://www.acmicpc.net/problem/2204)    | 1  |  ⭐  |  57%  | ✅  |     25-08-15/     |
 | 46 | 10798 |      [세로읽기](https://www.acmicpc.net/problem/10798)       | 2  |  ⭐  |  47%  | ✅  | 25-08-13/25-08-17 |
+| 47 | 1181  |      [단어 정렬](https://www.acmicpc.net/problem/1181)       | 1  | ⭐⭐  |  41%  | ✅  |     25-09-05/     |
+| 48 | 1251  |      [단어 나누기](https://www.acmicpc.net/problem/1251)      | 1  | ⭐⭐  |  46%  | ✅  |     25-09-05/     |
 
 <br/>
 
