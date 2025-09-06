@@ -52,6 +52,9 @@
 | 46 | 10798 |      [세로읽기](https://www.acmicpc.net/problem/10798)       | 2  |  ⭐  |  47%  | ✅  | 25-08-13/25-08-17 |
 | 47 | 1181  |      [단어 정렬](https://www.acmicpc.net/problem/1181)       | 1  | ⭐⭐  |  41%  | ✅  |     25-09-05/     |
 | 48 | 1251  |      [단어 나누기](https://www.acmicpc.net/problem/1251)      | 1  | ⭐⭐  |  46%  | ✅  |     25-09-05/     |
+| 49 | 1316  |     [그룹 단어 체커](https://www.acmicpc.net/problem/1316)     | 1  | ⭐⭐  |  54%  | ✅  |     25-09-06/     |
+| 50 | 1427  |      [소트인사이드](https://www.acmicpc.net/problem/1427)      | 1  | ⭐⭐  |  66%  | ✅  |     25-09-06/     |
+| 51 | 5555  |        [반지](https://www.acmicpc.net/problem/5555)        | 1  | ⭐⭐  |  64%  | ✅  |     25-09-06/     |
 
 <br/>
 
