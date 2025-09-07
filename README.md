@@ -55,6 +55,9 @@
 | 49 | 1316  |     [그룹 단어 체커](https://www.acmicpc.net/problem/1316)     | 1  | ⭐⭐  |  54%  | ✅  |     25-09-06/     |
 | 50 | 1427  |      [소트인사이드](https://www.acmicpc.net/problem/1427)      | 1  | ⭐⭐  |  66%  | ✅  |     25-09-06/     |
 | 51 | 5555  |        [반지](https://www.acmicpc.net/problem/5555)        | 1  | ⭐⭐  |  64%  | ✅  |     25-09-06/     |
+| 52 | 1769  |      [3의 배수](https://www.acmicpc.net/problem/1769)       | 1  | ⭐⭐  |  32%  | ✅  |     25-09-07/     |
+| 53 | 2941  |    [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)     | 1  | ⭐⭐  |  44%  | ✅  |     25-09-07/     |
+| 54 | 7785  |    [회사에 있는 사람](https://www.acmicpc.net/problem/7785)     | 1  | ⭐⭐  |  41%  | ✅  |     25-09-07/     |
 
 <br/>
 
