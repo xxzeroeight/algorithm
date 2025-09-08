@@ -58,6 +58,8 @@
 | 52 | 1769  |      [3의 배수](https://www.acmicpc.net/problem/1769)       | 1  | ⭐⭐  |  32%  | ✅  |     25-09-07/     |
 | 53 | 2941  |    [크로아티아 알파벳](https://www.acmicpc.net/problem/2941)     | 1  | ⭐⭐  |  44%  | ✅  |     25-09-07/     |
 | 54 | 7785  |    [회사에 있는 사람](https://www.acmicpc.net/problem/7785)     | 1  | ⭐⭐  |  41%  | ✅  |     25-09-07/     |
+| 55 | 1543  |      [문서 검색](https://www.acmicpc.net/problem/1543)       | 1  | ⭐⭐  |  45%  | ✅  |     25-09-08/     |
+| 56 | 14490 |       [백대열](https://www.acmicpc.net/problem/14490)       | 1  | ⭐⭐  |  71%  | ✅  |     25-09-08/     |
 
 <br/>
 
@@ -103,6 +105,7 @@
 | 16 | 13419 |     [탕수육](https://www.acmicpc.net/problem/13419)     | 2  |  ⭐  |  74%  | ❌  | 25-08-28/ |
 | 17 | 2947  |    [나무 조각](https://www.acmicpc.net/problem/2947)     | 1  |  ⭐  |  58%  | ✅  | 25-08-28/ |
 | 18 | 1173  |      [운동](https://www.acmicpc.net/problem/1173)      | 1  |  ⭐  |  48%  | ✅  | 25-08-28/ |
+| 19 | 9358  |   [순열 접기 게임](https://www.acmicpc.net/problem/9358)   | 1  |  ⭐  |  57%  | ✅  | 25-09-08/ |
 
 <br/>
 
