@@ -85,27 +85,30 @@
 <br/>
 
 ### 시뮬레이션
-| 번호 | 문제 번호 |                        문제 제목                         | 시도 | 난이도 | 정답 비율 | 해결 | 첫 시도일/완료일 |
-|:--:|:-----:|:----------------------------------------------------:|:--:|:---:|:-----:|:--:|:---------:|
-| 1  | 14470 |    [전자레인지](https://www.acmicpc.net/problem/14470)    | 1  |  ⭐  |  76%  | ✅  | 25-08-22/ |
-| 2  | 1942  |    [디지털시계](https://www.acmicpc.net/problem/1942)     | 2  |  ⭐  |  49%  | ❌  | 25-08-23/ |
-| 3  | 14920 |   [3n+1 수열](https://www.acmicpc.net/problem/14920)   | 1  |  ⭐  |  74%  | ✅  | 25-08-23/ |
-| 4  | 16917 | [양념 반 후라이드 반](https://www.acmicpc.net/problem/16917) | 3  |  ⭐  |  58%  | ✅  | 25-08-23/ |
-| 5  | 9517  | [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517)  | 2  |  ⭐  |  49%  | ❌  | 25-08-24/ |
-| 6  | 1672  |    [DNA 해독](https://www.acmicpc.net/problem/1672)    | 1  |  ⭐  |  42%  | ✅  | 25-08-24/ |
-| 7  | 3943  |   [헤일수톤 수열](https://www.acmicpc.net/problem/3943)    | 1  |  ⭐  |  45%  | ✅  | 25-08-24/ |
-| 8  | 1592  |   [영식이와 친구들](https://www.acmicpc.net/problem/1592)   | 1  |  ⭐  |  69%  | ✅  | 25-08-24/ |
-| 9  | 10040 |     [투표](https://www.acmicpc.net/problem/10040)      | 1  |  ⭐  |  61%  | ✅  | 25-08-24/ |
-| 10 | 10804 |   [카드 역배치](https://www.acmicpc.net/problem/10804)    | 1  |  ⭐  |  66%  | ✅  | 25-08-26/ |
-| 11 | 10810 |    [공 넣기](https://www.acmicpc.net/problem/10810)     | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
-| 12 | 10811 |   [바구니 뒤집기](https://www.acmicpc.net/problem/10811)   | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
-| 13 | 10813 |    [공 바꾸기](https://www.acmicpc.net/problem/10813)    | 1  |  ⭐  |  62%  | ✅  | 25-08-27/ |
-| 14 | 11648 |     [지속](https://www.acmicpc.net/problem/11648)      | 1  |  ⭐  |  83%  | ✅  | 25-08-27/ |
-| 15 | 13224 |  [Chop Cup](https://www.acmicpc.net/problem/13224)   | 1  |  ⭐  |  92%  | ✅  | 25-08-27/ |
-| 16 | 13419 |     [탕수육](https://www.acmicpc.net/problem/13419)     | 2  |  ⭐  |  74%  | ❌  | 25-08-28/ |
-| 17 | 2947  |    [나무 조각](https://www.acmicpc.net/problem/2947)     | 1  |  ⭐  |  58%  | ✅  | 25-08-28/ |
-| 18 | 1173  |      [운동](https://www.acmicpc.net/problem/1173)      | 1  |  ⭐  |  48%  | ✅  | 25-08-28/ |
-| 19 | 9358  |   [순열 접기 게임](https://www.acmicpc.net/problem/9358)   | 1  |  ⭐  |  57%  | ✅  | 25-09-08/ |
+| 번호 | 문제 번호 |                            문제 제목                            | 시도 | 난이도 | 정답 비율 | 해결 | 첫 시도일/완료일 |
+|:--:|:-----:|:-----------------------------------------------------------:|:--:|:---:|:-----:|:--:|:---------:|
+| 1  | 14470 |       [전자레인지](https://www.acmicpc.net/problem/14470)        | 1  |  ⭐  |  76%  | ✅  | 25-08-22/ |
+| 2  | 1942  |        [디지털시계](https://www.acmicpc.net/problem/1942)        | 2  |  ⭐  |  49%  | ❌  | 25-08-23/ |
+| 3  | 14920 |      [3n+1 수열](https://www.acmicpc.net/problem/14920)       | 1  |  ⭐  |  74%  | ✅  | 25-08-23/ |
+| 4  | 16917 |    [양념 반 후라이드 반](https://www.acmicpc.net/problem/16917)     | 3  |  ⭐  |  58%  | ✅  | 25-08-23/ |
+| 5  | 9517  |     [아이 러브 크로아티아](https://www.acmicpc.net/problem/9517)     | 2  |  ⭐  |  49%  | ❌  | 25-08-24/ |
+| 6  | 1672  |       [DNA 해독](https://www.acmicpc.net/problem/1672)        | 1  |  ⭐  |  42%  | ✅  | 25-08-24/ |
+| 7  | 3943  |       [헤일수톤 수열](https://www.acmicpc.net/problem/3943)       | 1  |  ⭐  |  45%  | ✅  | 25-08-24/ |
+| 8  | 1592  |      [영식이와 친구들](https://www.acmicpc.net/problem/1592)       | 1  |  ⭐  |  69%  | ✅  | 25-08-24/ |
+| 9  | 10040 |         [투표](https://www.acmicpc.net/problem/10040)         | 1  |  ⭐  |  61%  | ✅  | 25-08-24/ |
+| 10 | 10804 |       [카드 역배치](https://www.acmicpc.net/problem/10804)       | 1  |  ⭐  |  66%  | ✅  | 25-08-26/ |
+| 11 | 10810 |        [공 넣기](https://www.acmicpc.net/problem/10810)        | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
+| 12 | 10811 |      [바구니 뒤집기](https://www.acmicpc.net/problem/10811)       | 1  |  ⭐  |  52%  | ✅  | 25-08-26/ |
+| 13 | 10813 |       [공 바꾸기](https://www.acmicpc.net/problem/10813)        | 1  |  ⭐  |  62%  | ✅  | 25-08-27/ |
+| 14 | 11648 |         [지속](https://www.acmicpc.net/problem/11648)         | 1  |  ⭐  |  83%  | ✅  | 25-08-27/ |
+| 15 | 13224 |      [Chop Cup](https://www.acmicpc.net/problem/13224)      | 1  |  ⭐  |  92%  | ✅  | 25-08-27/ |
+| 16 | 13419 |        [탕수육](https://www.acmicpc.net/problem/13419)         | 2  |  ⭐  |  74%  | ❌  | 25-08-28/ |
+| 17 | 2947  |        [나무 조각](https://www.acmicpc.net/problem/2947)        | 1  |  ⭐  |  58%  | ✅  | 25-08-28/ |
+| 18 | 1173  |         [운동](https://www.acmicpc.net/problem/1173)          | 1  |  ⭐  |  48%  | ✅  | 25-08-28/ |
+| 19 | 9358  |      [순열 접기 게임](https://www.acmicpc.net/problem/9358)       | 1  |  ⭐  |  57%  | ✅  | 25-09-08/ |
+| 20 | 9047  |        [6174](https://www.acmicpc.net/problem/9047)         | 2  |  ⭐  |  43%  | ❌  | 25-09-09/ |
+| 21 | 11504 |     [돌려 돌려 돌림판!](https://www.acmicpc.net/problem/11504)     | 1  |  ⭐  |  58%  | ✅  | 25-09-09/ |
+| 22 | 15404 | [The Bovine Shuffle](https://www.acmicpc.net/problem/15404) | 2  |  ⭐  |  54%  | ✅  | 25-09-09/ |
 
 <br/>
 
