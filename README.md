@@ -81,6 +81,11 @@
 | 13 | 2160  |     [그림 비교](https://www.acmicpc.net/problem/2160)     | 2  |  ⭐  |  48%  | ✅  | 25-08-21/25-08-22 |
 | 14 | 1145  | [적어도 대부부분의 배수](https://www.acmicpc.net/problem/1145)  | 1  |  ⭐  |  64%  | ✅  |     25-08-21/     |
 | 15 | 18868 |    [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)    | 2  |  ⭐  |  58%  | ✅  |     25-08-21/     |
+| 16 | 1436  |    [영화감독 숌](https://www.acmicpc.net/problem/1436)     | 1  | ⭐⭐  |  60%  | ✅  |     25-09-11/     |
+| 17 | 2303  |     [숫자 게임](https://www.acmicpc.net/problem/2303)     | 1  | ⭐⭐  |  44%  | ✅  |     25-09-11/     |
+| 18 | 7568  |      [덩치](https://www.acmicpc.net/problem/7568)       | 2  | ⭐⭐  |  56%  | ❌  |     25-09-11/     |
+| 19 | 5671  |    [호텔 방 번호](https://www.acmicpc.net/problem/5671)    | 1  | ⭐⭐  |  57%  | ✅  |     25-09-11/     |
+| 20 | 8892  |     [팰린드롬](https://www.acmicpc.net/problem/8892)      | 3  | ⭐⭐  |  46%  | ✅  |     25-09-11/     |
 
 <br/>
 
