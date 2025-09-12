@@ -110,10 +110,10 @@
 | 16 | 13419 |        [탕수육](https://www.acmicpc.net/problem/13419)         | 2  |  ⭐  |  74%  | ❌  | 25-08-28/ |
 | 17 | 2947  |        [나무 조각](https://www.acmicpc.net/problem/2947)        | 1  |  ⭐  |  58%  | ✅  | 25-08-28/ |
 | 18 | 1173  |         [운동](https://www.acmicpc.net/problem/1173)          | 1  |  ⭐  |  48%  | ✅  | 25-08-28/ |
-| 19 | 9358  |      [순열 접기 게임](https://www.acmicpc.net/problem/9358)       | 1  |  ⭐  |  57%  | ✅  | 25-09-08/ |
-| 20 | 9047  |        [6174](https://www.acmicpc.net/problem/9047)         | 2  |  ⭐  |  43%  | ❌  | 25-09-09/ |
-| 21 | 11504 |     [돌려 돌려 돌림판!](https://www.acmicpc.net/problem/11504)     | 1  |  ⭐  |  58%  | ✅  | 25-09-09/ |
-| 22 | 15404 | [The Bovine Shuffle](https://www.acmicpc.net/problem/15404) | 2  |  ⭐  |  54%  | ✅  | 25-09-09/ |
+| 19 | 9358  |      [순열 접기 게임](https://www.acmicpc.net/problem/9358)       | 1  | ⭐⭐  |  57%  | ✅  | 25-09-08/ |
+| 20 | 9047  |        [6174](https://www.acmicpc.net/problem/9047)         | 2  | ⭐⭐  |  43%  | ❌  | 25-09-09/ |
+| 21 | 11504 |     [돌려 돌려 돌림판!](https://www.acmicpc.net/problem/11504)     | 1  | ⭐⭐  |  58%  | ✅  | 25-09-09/ |
+| 22 | 15404 | [The Bovine Shuffle](https://www.acmicpc.net/problem/15404) | 2  | ⭐⭐  |  54%  | ✅  | 25-09-09/ |
 
 <br/>
 
@@ -139,3 +139,7 @@
 | 8  | 4796  |           [캠핑](https://www.acmicpc.net/problem/4796)            | 1  |  ⭐  |  39%  | ✅  |     25-09-02/     |
 | 9  | 14659 |      [한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)       | 4  |  ⭐  |  40%  | ✅  | 25-09-02/25-09-03 |
 | 10 | 9329  |        [패스트 푸드 상금](https://www.acmicpc.net/problem/9329)        | 2  |  ⭐  |  65%  | ❌  |     25-09-03/     |
+| 11 | 15904 |    [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904)     | 2  | ⭐⭐  |  42%  | ❌  |     25-09-12/     |
+| 12 | 1417  |         [국회의원 선거](https://www.acmicpc.net/problem/1417)         | 1  | ⭐⭐  |  46%  | ✅  |     25-09-12/     |
+| 13 | 11256 |           [사탕](https://www.acmicpc.net/problem/11256)           | 1  | ⭐⭐  |  70%  | ✅  |     25-09-12/     |
+| 14 | 16435 |         [스네이크버드](https://www.acmicpc.net/problem/16435)         | 1  | ⭐⭐  |  75%  | ✅  |     25-09-12/     |
