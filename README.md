@@ -143,3 +143,6 @@
 | 12 | 1417  |         [국회의원 선거](https://www.acmicpc.net/problem/1417)         | 1  | ⭐⭐  |  46%  | ✅  |     25-09-12/     |
 | 13 | 11256 |           [사탕](https://www.acmicpc.net/problem/11256)           | 1  | ⭐⭐  |  70%  | ✅  |     25-09-12/     |
 | 14 | 16435 |         [스네이크버드](https://www.acmicpc.net/problem/16435)         | 1  | ⭐⭐  |  75%  | ✅  |     25-09-12/     |
+| 15 | 1343  |          [폴리오미노](https://www.acmicpc.net/problem/1343)          | 1  | ⭐⭐  |  53%  | ✅  |     25-09-15/     |
+| 16 | 3135  |           [라디오](https://www.acmicpc.net/problem/3135)           | 3  | ⭐⭐  |  62%  | ✅  |     25-09-15/     |
+| 17 | 6550  |         [부분 문자열](https://www.acmicpc.net/problem/6550)          | 2  | ⭐⭐  |  39%  | ✅  |     25-09-15/     |
