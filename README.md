@@ -123,6 +123,7 @@
 | 1  | 17608 |   [막대기](https://www.acmicpc.net/problem/17608)    | 1  |  ⭐  |  42%  | ✅  | 25-08-29/ |
 | 2  | 12605 | [단어순서 뒤집기](https://www.acmicpc.net/problem/12605) | 1  |  ⭐  |  61%  | ✅  | 25-08-29/ |
 | 3  | 20001 | [고무오리 디버깅](https://www.acmicpc.net/problem/20001) | 1  |  ⭐  |  63%  | ✅  | 25-08-29/ |
+| 4  | 2161  |    [카드1](https://www.acmicpc.net/problem/2161)    | 1  | ⭐⭐  |  68%  | ✅  | 25-09-17/ |
 
 <br/>
 
@@ -146,3 +147,5 @@
 | 15 | 1343  |          [폴리오미노](https://www.acmicpc.net/problem/1343)          | 1  | ⭐⭐  |  53%  | ✅  |     25-09-15/     |
 | 16 | 3135  |           [라디오](https://www.acmicpc.net/problem/3135)           | 3  | ⭐⭐  |  62%  | ✅  |     25-09-15/     |
 | 17 | 6550  |         [부분 문자열](https://www.acmicpc.net/problem/6550)          | 2  | ⭐⭐  |  39%  | ✅  |     25-09-15/     |
+| 18 | 1817  |         [짐 챙기는 숌](https://www.acmicpc.net/problem/1817)         | 1  | ⭐⭐  |  50%  | ✅  |     25-09-17/     |
+| 19 | 1439  |           [뒤집기](https://www.acmicpc.net/problem/1439)           | 2  | ⭐⭐  |  57%  | ✅  |     25-09-17/     |
