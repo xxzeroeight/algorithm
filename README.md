@@ -149,3 +149,7 @@
 | 17 | 6550  |         [부분 문자열](https://www.acmicpc.net/problem/6550)          | 2  | ⭐⭐  |  39%  | ✅  |     25-09-15/     |
 | 18 | 1817  |         [짐 챙기는 숌](https://www.acmicpc.net/problem/1817)         | 1  | ⭐⭐  |  50%  | ✅  |     25-09-17/     |
 | 19 | 1439  |           [뒤집기](https://www.acmicpc.net/problem/1439)           | 2  | ⭐⭐  |  57%  | ✅  |     25-09-17/     |
+| 20 | 1120  |           [문자열](https://www.acmicpc.net/problem/1120)           | 1  | ⭐⭐  |  60%  | ✅  |     25-09-19/     |
+| 21 | 11656 |         [접미사 배열](https://www.acmicpc.net/problem/11656)         | 1  | ⭐⭐  |  71%  | ✅  |     25-09-19/     |
+| 22 | 1764  |           [듣보잡](https://www.acmicpc.net/problem/1764)           | 2  | ⭐⭐  |  42%  | ❌  |     25-09-19/     |
+| 23 | 14425 |         [문자열 집합](https://www.acmicpc.net/problem/14425)         | 1  | ⭐⭐  |  54%  | ✅  |     25-09-19/     |
