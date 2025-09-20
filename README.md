@@ -60,6 +60,8 @@
 | 54 | 7785  |    [회사에 있는 사람](https://www.acmicpc.net/problem/7785)     | 1  | ⭐⭐  |  41%  | ✅  |     25-09-07/     |
 | 55 | 1543  |      [문서 검색](https://www.acmicpc.net/problem/1543)       | 1  | ⭐⭐  |  45%  | ✅  |     25-09-08/     |
 | 56 | 14490 |       [백대열](https://www.acmicpc.net/problem/14490)       | 1  | ⭐⭐  |  71%  | ✅  |     25-09-08/     |
+| 57 | 1620  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)  | 2  | ⭐⭐  |  35%  | ✅  |     25-09-20/     |
+| 58 | 9322  |    [철벽 보안 알고리즘](https://www.acmicpc.net/problem/9322)    | 2  | ⭐⭐  |  70%  | ✅  |     25-09-20/     |
 
 <br/>
 
@@ -86,6 +88,8 @@
 | 18 | 7568  |      [덩치](https://www.acmicpc.net/problem/7568)       | 2  | ⭐⭐  |  56%  | ❌  |     25-09-11/     |
 | 19 | 5671  |    [호텔 방 번호](https://www.acmicpc.net/problem/5671)    | 1  | ⭐⭐  |  57%  | ✅  |     25-09-11/     |
 | 20 | 8892  |     [팰린드롬](https://www.acmicpc.net/problem/8892)      | 3  | ⭐⭐  |  46%  | ✅  |     25-09-11/     |
+| 21 | 5568  |     [카드놓기](https://www.acmicpc.net/problem/5568)      | 2  | ⭐⭐  |  68%  | ✅  |     25-09-20/     |
+| 22 | 1969  |      [DNA](https://www.acmicpc.net/problem/1969)      | 2  | ⭐⭐  |  58%  | ❌  |     25-09-20/     |
 
 <br/>
 
