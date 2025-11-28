@@ -17,7 +17,7 @@ import java.io.InputStreamReader;
  * 3. 1, 2번의 내용으로 미루어보아 슬라이딩 윈도우 방식이다.
  *
  * 주의할 점/예외 케이스:
- * -
+ *
  *
  * 시간 내/외: 내
  */
@@ -25,25 +25,31 @@ import java.io.InputStreamReader;
 public class Main
 {
     public static void main(String[] args) throws IOException {
+        /* 입력 처리 */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         String[] input = br.readLine().split(" ");
         String a = input[0];
         String b = input[1];
 
+        // "*adaabc", "adaabc*"
+        // "*koder**", "koder***"
+
+        /* 핵심 로직 */
         int minCnt = Integer.MAX_VALUE;
 
         for (int i=0; i<b.length() - a.length() + 1; i++) {
-            String s = b.substring(i, i+a.length());
+            String s = b.substring(i, i+a.length()); // b문자열에서 a길이만큼 추출(aababb, ababbc)
 
             int cnt = 0;
-            for (int j=0; j<a.length(); j++) {
+            for (int j=0; j<a.length(); j++) { // ("aababb", "adaabc"), ("ababbc", "adaabc")
                 if (s.charAt(j) != a.charAt(j)) { cnt++; }
             }
 
             minCnt = Math.min(minCnt, cnt);
         }
 
+        /* 결과 출력 */
         System.out.println(minCnt);
     }
 }
