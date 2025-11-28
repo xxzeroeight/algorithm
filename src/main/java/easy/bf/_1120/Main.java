@@ -4,6 +4,24 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * 문제: 문자열
+ * 유형: 브루트포스/문자열
+ * 난이도: S
+ *
+ * 시간복잡도: O(N × M)
+ *
+ * 아이디어:
+ * 1. 추가된 문자열은 모든 비교에서 무조건 차이에 포함되므로 무시한다.
+ * 2. a를 b의 시작부터 끝까지 한 칸씩 이동하면서 겹치는 부분을 비교한다.
+ * 3. 1, 2번의 내용으로 미루어보아 슬라이딩 윈도우 방식이다.
+ *
+ * 주의할 점/예외 케이스:
+ * -
+ *
+ * 시간 내/외: 내
+ */
+
 public class Main
 {
     public static void main(String[] args) throws IOException {

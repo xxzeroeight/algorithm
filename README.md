@@ -94,7 +94,7 @@
 | 24 | 9417  |          [최대 GCD](https://www.acmicpc.net/problem/9417)           | 1  | ⭐⭐  |  70%  | ✅  |     25-09-21/     |
 | 25 | 1065  |            [한수](https://www.acmicpc.net/problem/1065)             | 1  | ⭐⭐  |  55%  | ✅  |     25-09-21/     |
 | 26 | 1120  |            [문자열](https://www.acmicpc.net/problem/1120)            | 1  | ⭐⭐  |  60%  | ✅  |     25-11-28/     |
-| 27 | 1543  |           [문서 검](https://www.acmicpc.net/problem/1543)            | 1  | ⭐⭐  |  45%  | ✅  |     25-11-28/     |
+| 27 | 1543  |           [문서 검색](https://www.acmicpc.net/problem/1543)           | 1  | ⭐⭐  |  45%  | ✅  |     25-11-28/     |
 
 <br/>
 
