@@ -133,6 +133,7 @@
 | 2  | 12605 | [단어순서 뒤집기](https://www.acmicpc.net/problem/12605) | 1  |  ⭐  |  61%  | ✅  | 25-08-29/ |
 | 3  | 20001 | [고무오리 디버깅](https://www.acmicpc.net/problem/20001) | 1  |  ⭐  |  63%  | ✅  | 25-08-29/ |
 | 4  | 2161  |    [카드1](https://www.acmicpc.net/problem/2161)    | 1  | ⭐⭐  |  68%  | ✅  | 25-09-17/ |
+| 5  | 10799 |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | 2  | ⭐⭐  |  65%  | ❌  | 25-12-04/ |
 
 <br/>
 
@@ -162,3 +163,4 @@
 | 21 | 11656 |         [접미사 배열](https://www.acmicpc.net/problem/11656)         | 1  | ⭐⭐  |  71%  | ✅  |     25-09-19/     |
 | 22 | 1764  |           [듣보잡](https://www.acmicpc.net/problem/1764)           | 2  | ⭐⭐  |  42%  | ❌  |     25-09-19/     |
 | 23 | 14425 |         [문자열 집합](https://www.acmicpc.net/problem/14425)         | 1  | ⭐⭐  |  54%  | ✅  |     25-09-19/     |
+| 24 | 11047 |          [동전 0](https://www.acmicpc.net/problem/11047)          | 1  | ⭐⭐  |  53%  | ✅  |     25-12-02/     |
