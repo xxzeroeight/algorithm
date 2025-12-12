@@ -19,13 +19,6 @@ import java.io.IOException;
 public class Main
 {
     public static void main(String[] args) throws IOException {
-        /* 입력 처리 */
-
-
-        /* 핵심 로직 */
-
-
-        /* 결과 출력 */
 
     }
 }
