@@ -123,6 +123,7 @@
 | 20 | 9047  |        [6174](https://www.acmicpc.net/problem/9047)         | 2  | ⭐⭐  |  43%  | ❌  | 25-09-09/ |
 | 21 | 11504 |     [돌려 돌려 돌림판!](https://www.acmicpc.net/problem/11504)     | 1  | ⭐⭐  |  58%  | ✅  | 25-09-09/ |
 | 22 | 15404 | [The Bovine Shuffle](https://www.acmicpc.net/problem/15404) | 2  | ⭐⭐  |  54%  | ✅  | 25-09-09/ |
+| 23 | 1966  |        [프린터 큐](https://www.acmicpc.net/problem/1966)        | 1  | ⭐⭐  |  59%  | ✅  | 25-12-12/ |
 
 <br/>
 
@@ -164,3 +165,4 @@
 | 22 | 1764  |           [듣보잡](https://www.acmicpc.net/problem/1764)           | 2  | ⭐⭐  |  42%  | ❌  |     25-09-19/     |
 | 23 | 14425 |         [문자열 집합](https://www.acmicpc.net/problem/14425)         | 1  | ⭐⭐  |  54%  | ✅  |     25-09-19/     |
 | 24 | 11047 |          [동전 0](https://www.acmicpc.net/problem/11047)          | 1  | ⭐⭐  |  53%  | ✅  |     25-12-02/     |
+| 25 | 12927 |         [배수 스위치](https://www.acmicpc.net/problem/12927)         | 1  | ⭐⭐  |  70%  | ✅  |     25-12-10/     |
